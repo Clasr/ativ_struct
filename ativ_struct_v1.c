@@ -9,7 +9,7 @@
 #include <stdlib.h>
 
 //estruturas
-struct Ponto2D {
+struct ponto2D {
   float x;
   float y;
 };
@@ -18,10 +18,4 @@ struct CorRGB {
     int r;
     int g;
     int b;
-};
-
-struct Circulo {
-    struct Ponto2D centro;
-    float raio;
-    struct CorRGB cor;
 };
