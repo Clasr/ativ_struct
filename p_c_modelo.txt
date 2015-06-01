@@ -1,0 +1,4 @@
+#Ponto
+x y
+#circulo
+centro_x centro_y raio red green blue
